@@ -1,0 +1,8 @@
+Questão 5)
+
+RESPOSTA:
+
+O primeiro passo seria ligar um interruptor e verificar qual sala está com a luz acesa, 
+o segundo passo seria ligar outro interruptor e verificar qual a próxima sala está acesa, 
+desta maneira já teria descoberto a qual sala pertence dois interruputores, restando apenas um interruptor e uma sala, 
+ao qual o interruptor restante pertence a sala restante. 
